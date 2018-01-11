@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'will_doc_project'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
+  s.executables << 'will_doc_project'
   s.date        = '2018-01-11'
   s.summary     = "will_doc_project"
   s.description = "A lecture gem. Developed to auto generate documentation of a project"
