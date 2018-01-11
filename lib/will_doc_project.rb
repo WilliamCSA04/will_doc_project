@@ -1,5 +1,5 @@
 class WillDocProject
   def self.start
-    puts "Not implemented yet"
+    "Not implemented yet"
   end
 end
